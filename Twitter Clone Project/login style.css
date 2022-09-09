@@ -1,0 +1,16 @@
+body{
+    background-image: url('Sky with cloud background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+ 
+}
+.login-form{
+    width: 400px;
+    height:max-content;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: rgb(182, 178, 178);
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
